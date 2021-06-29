@@ -7,13 +7,13 @@ A full description of the corpus can be found in the [original paper](https://ar
 
 The data distribution is as follows:
 
-<img src="https://github.com/TDaudert/FinLin/blob/main/FinLin_observations.png"  width="250">
+<img src="https://github.com/TDaudert/FinLin/blob/main/FinLin_observations.png"  width="450">
 
 ## FinLin Structure
 
 The FinLin files come in the following structure: 
 
-<img src="https://github.com/TDaudert/FinLin/blob/main/FinLin_structure.png"  width="250">
+<img src="https://github.com/TDaudert/FinLin/blob/main/FinLin_structure.png"  width="450">
 
 - "type" : The data type [SW,NA,AR,CR].
 - "text" : The body of text.

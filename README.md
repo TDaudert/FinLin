@@ -3,7 +3,7 @@
 FinLin is multi-source multi-entity corpus for fine-grained financial sentiment analysis. It covers a period of 3 months and a set of automobile companies as sentiment targets. In addition to  fine-grained sentiment, it comes with a relevance measure aimed at supporting the capture of a market sentiment by giving each item an individual weight. FinLin covers microblogs from StockTwit, news articles, company reports, and analyst reports.
 If you want, then you can add figure 4 from the paper here but I dont think its needed. 
 
-A full description of the corpus can be found in the [original paper](https://arxiv.org/pdf/2003.04073). 
+A full description of the corpus can be found in the [original paper](https://doi.org/10.1007/s10579-021-09555-3). 
 
 The data distribution is as follows:
 
@@ -29,15 +29,18 @@ The FinLin files come in the following structure:
 - "title_spans" : The substring of "title" as highlighted by the corresponding annotator. 
 
 ## Reference 
-If you use FinLin in your research, please cite [this paper](https://arxiv.org/pdf/2003.04073):
+If you use FinLin in your research, please cite [this paper](https://doi.org/10.1007/s10579-021-09555-3):
 
 ~~~
-@inproceedings{daudert2020multi,
-  title={A Multi-Source Entity-Level Sentiment Corpus for the Financial Domain: The FinLin Corpus},
+@article{daudert2021multi,
+  title={A multi-source entity-level sentiment corpus for the financial domain: the FinLin corpus},
   author={Daudert, Tobias},
-  journal={arXiv preprint arXiv:2003.04073},
-  year={2020},
-  url = "https://arxiv.org/pdf/2003.04073"
+  journal={Language Resources and Evaluation},
+  pages={1--24},
+  year={2021},
+  publisher={Springer},
+  doi = {10.1007/s10579-021-09555-3},
+  url = {https://doi.org/10.1007/s10579-021-09555-3}
 }
 ~~~
 ## License 

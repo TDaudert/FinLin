@@ -46,8 +46,8 @@ If you use FinLin in your research, please cite [this paper](https://doi.org/10.
 ## License 
 This corpus is openly available for non-commercial use under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Contact 
-If you have any questions or suggestions, you can contact Tobias Daudert (tobias.daudert@insight-centre.org).
+## Contact & Obtaining this Corpus
+If you have any questions, suggestions, or want to obtain a copy of this corpus, you can contact Tobias Daudert (finlin.corpus@gmail.com).
 
 ## Disclaimer 
 FinLin is created for research purposes only. The author is not responsible for any damages related to or inflicted by its use.
